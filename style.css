@@ -1,0 +1,48 @@
+.container{
+    width: 1000px;
+    margin : auto;
+}
+
+#name{
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    text-align: center;
+
+}
+/* 
+li.nav-item{
+    width: 220px;
+}
+
+a.nav-link{
+    margin : auto;
+} */
+
+i{
+    font-size: 2rem;
+    margin-right: 1rem;
+}
+
+img{
+    width: 40%;
+}
+
+div.progress{
+    font-size: 1.4rem;
+    height: 40px;
+    margin: 30px;
+    width: 300px;
+}
+
+div#education td{
+    margin: 1rem;
+    padding: 0.5rem;
+}
+
+div#education th{
+    margin: 1rem;
+    padding: 0.5rem;
+    font-size: 1.5rem;
+}
